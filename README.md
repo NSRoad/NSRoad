@@ -6,6 +6,12 @@
 
 Projects
 
+*Sinfonia
+
+![Prueba_animacion_nubes_aves0001](https://user-images.githubusercontent.com/90289936/185695420-54111faf-0f8c-412a-9191-b2e2105b904d.png)
+
+https://centrodeserviciosygestionempresarial.blogspot.com/2022/08/trailer-sinfonia-salvaje.html?m=1
+
 *Project personal
 -[Das Labyrinth](https://nsroad.itch.io/das-labyrinth)
 
