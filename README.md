@@ -16,6 +16,12 @@ Projectos
 
 -[Das Labyrinth](https://nsroad.itch.io/das-labyrinth)
 
+Estoy aprendiendo
+
+-Blender
+-Particulas
+-Shaders
+
 <!--
 **NSRoad/NSRoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
