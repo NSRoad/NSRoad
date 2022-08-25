@@ -1,5 +1,7 @@
 ### Hola,Soy Sebastian👋
 
+Desarrollador de videojuegos novato,Que cada dia siga aprendiendo algo nuevo.
+
 ![downloa](https://user-images.githubusercontent.com/90289936/185693546-cd1d9690-96f1-4b8d-b927-c96db63dbff4.png)
 
 -[Linkedli](https://www.linkedin.com/in/sebastian-acosta-tobon-171472246)
